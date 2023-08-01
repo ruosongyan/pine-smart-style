@@ -1,5 +1,4 @@
 import { Node } from 'acorn';
-import * as acornWalk from 'acorn-walk';
 import * as objectPath from 'object-path';
 
 

@@ -1,6 +1,4 @@
 import * as vscode from 'vscode';
-import * as fs from 'fs';
-import * as path from 'path';
 import * as Acorn from 'acorn';
 import * as AcornJSX from 'acorn-jsx';
 import { getActiveSelectionText, getActiveDirPath } from './utils';
